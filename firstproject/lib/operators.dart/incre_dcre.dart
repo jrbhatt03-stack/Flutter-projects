@@ -5,4 +5,6 @@ void main () {
   int b = 20; // declaring variable
   print(b++); // post-increment operator (output direct:- 20)
   print(b);// printing value of b after post-increment (output after direct:- 21)
+  // github lol 
+  // if you want to confirm changes to github then use git add . then to commit changes use git commit -m "your message" then to push changes use git push origin main
 }
