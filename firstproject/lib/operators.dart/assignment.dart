@@ -22,7 +22,7 @@
 
 void main () {
   double age = 24; // using double as output could be in decimal
-  double original = age; // save original value
+  double original = age; // save original value 
 
   age += 6; // age = age + 6
   print("after addition the age is $age");
