@@ -12,6 +12,7 @@
 } */
 
 void main() {
+  // ignore: equal_elements_in_set
   Set<int> numbers = {1,1,2,3,4,4,5};
   Set<int> numbers1 = {6,7,8,9,10};
   numbers.addAll(numbers1); // Merging two sets
